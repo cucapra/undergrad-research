@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 ---
 
-We are thrilled that you're interested in research in our research group! Please fill out this issue template. When you submit it, we will get a notification in our group chat. Please include any relevant details you can think of!
+We are thrilled that you're interested in research in our research group! Please fill out this issue template. When you submit it, we will get a notification in our group chat. Please include any relevant details you can think of! Here is [an example](https://github.com/cucapra/undergrad-research/issues/1) of a filled out template for reference.
 
 
 ## Personal Details
