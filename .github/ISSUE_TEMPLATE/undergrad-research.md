@@ -4,10 +4,10 @@ about: Details for Undergrad Interested in Research
 title: "[Full name]"
 labels: ''
 assignees: ''
-
 ---
 
-Thanks for your interest in working in our group! Please fill out this short issue template. Once submitted, we will get a notification in our group chat so make sure to include any relevant details!
+We are thrilled that you're interested in research in our research group! Please fill out this issue template. When you submit it, we will get a notification in our group chat. Please include any relevant details you can think of!
+
 
 ## Personal Details
 
@@ -19,20 +19,28 @@ Thanks for your interest in working in our group! Please fill out this short iss
 
 **Relevant classes**:
 
+
 ## Research
 
-**When do you want to conduct research (summer or during the semester)?**
+**When do you want to do research?**
+(Researchers can get involved during the semester as an "extracurricular" or get more involved over the summer, when they treat research like a full-time job.)
 
-**What got you interested in research?**
+**What is exciting to you about research?**
+(How did you get interested in it? What are you hoping to get out it?)
 
-**What kind of research do you want to do?** (It's OK to say, "I don't know, I'm looking to explore!"
+**What kind of research do you want to do?**
+(It's OK to say, "I don't know; I'm looking to explore!")
+
 
 ## Optional Stuff
 
-**Was there a paper that particularly excited you?** (This doesn't have to be a paper from our group)
+(Feel free to leave any of these blank.)
 
-**Is there a grad student or a project you're interested in working on?**
+**Was there a paper that particularly excited you?**
+(This doesn't have to be a paper from our group.)
 
-**Anything you want to tell us about yourself?**
+**Is there a specific grad student or a project you're interested in working on?**
 
-**Attach a CV?**
+**Anything else you want to tell us about yourself?**
+
+**Attach a CV if you like.**
