@@ -8,6 +8,8 @@ assignees: ''
 
 We are thrilled that you're interested in research in our research group! Please fill out this issue template. When you submit it, we will get a notification in our group chat. Please include any relevant details you can think of! Here are [examples](https://github.com/cucapra/undergrad-research/issues?q=is%3Aissue+is%3Aopen+label%3AExample) of filled out templates for reference.
 
+For active projects in our group, take a look at our [group website](https://capra.cs.cornell.edu/).
+
 
 ## Personal Details
 
@@ -18,6 +20,8 @@ We are thrilled that you're interested in research in our research group! Please
 **Year in Cornell**:
 
 **Relevant classes**:
+
+**Willing to do research during the summer:**
 
 
 ## Research
@@ -32,9 +36,10 @@ We are thrilled that you're interested in research in our research group! Please
 (It's OK to say, "I don't know; I'm looking to explore!")
 
 
-## Optional Stuff
+## Background
 
-(Feel free to leave any of these blank.)
+- **Freshmen or Sophomore**: The following are optional.
+- **Junior or above**: The first two questions are required, others are optional.
 
 **Was there a paper that particularly excited you?**
 (This doesn't have to be a paper from our group.)
