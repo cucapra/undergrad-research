@@ -21,7 +21,7 @@ For active projects in our group, take a look at our [group website](https://cap
 
 **Relevant classes**:
 
-**Willing to do research during the summer:**
+**Interested in continuing research during the summer:**
 
 
 ## Research
@@ -38,8 +38,7 @@ For active projects in our group, take a look at our [group website](https://cap
 
 ## Background
 
-- **Freshmen or Sophomore**: The following are optional.
-- **Junior or above**: The first two questions are required, others are optional.
+**Note**: If you're in your first or second year at Cornell, these are all optional. If you're a junior or senior, please answer the first two (the rest is still optional).
 
 **Was there a paper that particularly excited you?**
 (This doesn't have to be a paper from our group.)
