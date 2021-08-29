@@ -24,18 +24,19 @@ exemptMilestones: false
 exemptAssignees: false
 
 # Label to use when marking as stale
-staleLabel: wontfix
+staleLabel: stale
 
 # Comment to post when marking as stale. Set to `false` to disable
 markComment: >
   It's been roughly 90 days since opening this issue. If you're still interested
   in doing reasearch with us, please respond with "Still interested for <semester/summer>".
-  If you're no longer interested, do not respond to this thread and we will automatically
+  Additionally, please update the issue by editing it and supplying us with more information,
+  an updated resumé, etc. If you're no longer interested, do not respond to this thread and we will automatically
   close this issue.
 
 # Comment to post when removing the stale label.
-# unmarkComment: >
-#   Your comment here.
+unmarkComment: >
+  Thanks for letting us know you're still interested! Tagging: @rachitnigam or @sampsyo
 
 # Comment to post when closing a stale Issue or Pull Request.
 # closeComment: >
