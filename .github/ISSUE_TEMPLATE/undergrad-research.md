@@ -17,12 +17,13 @@ For active projects in our group, take a look at our [group website](https://cap
 
 **Major**:
 
-**Year in Cornell**:
+**Year in Cornell & Expected graduation date:**
 
 **Relevant classes**:
 
-**Interested in continuing research during the summer:**
+**Interested in continuing research during the summer?**
 
+**Expertise (languages/frameworks/etc.):**
 
 ## Research
 
@@ -35,16 +36,15 @@ For active projects in our group, take a look at our [group website](https://cap
 **What kind of research do you want to do?**
 (It's OK to say, "I don't know; I'm looking to explore!")
 
-
 ## Background
 
-**Note**: If you're in your first or second year at Cornell, these are all optional. If you're a junior or senior, please answer the first two (the rest is still optional).
+**Note**: While these questions are optional for first & second year students, we highly encourage everyone to respond to them. Third & fourth year students are required to respond to all questions.
 
 **Was there a paper that particularly excited you?**
 (This doesn't have to be a paper from our group.)
 
-**Is there a specific grad student or a project you're interested in working on?**
+**Which of the [current research projects](https://capra.cs.cornell.edu/) would you be interested in working on and why?**
 
 **Anything else you want to tell us about yourself?**
 
-**Attach a CV if you like.**
+**Attach a CV/Resumé**
