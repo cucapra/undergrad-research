@@ -6,6 +6,8 @@ labels: ''
 assignees: ''
 ---
 
+**Note.** Before applying, make sure you can receive notifications from Github. Once you apply, make sure you're subsribed to receive emails when someone responds to the issue. We will respond to your application on Github first so it's important that you receive notifications to it and respond quickly.
+
 We are thrilled that you're interested in research in our research group! Please fill out this issue template. When you submit it, we will get a notification in our group chat. Please include any relevant details you can think of! Here are [examples](https://github.com/cucapra/undergrad-research/issues?q=is%3Aissue+is%3Aopen+label%3AExample) of filled out templates for reference.
 
 For active projects in our group, take a look at our [group website](https://capra.cs.cornell.edu/).
