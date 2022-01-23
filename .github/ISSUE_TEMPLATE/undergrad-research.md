@@ -30,7 +30,7 @@ For active projects in our group, take a look at our [group website](https://cap
 ## Research
 
 **When do you want to do research?**
-(Researchers can get involved during the semester as an "extracurricular" or get more involved over the summer, when they treat research like a full-time job.)
+(Researchers can get involved during the semester as an "extracurricular", equivalent to a 3-4 credit class, or get more involved over the summer as a full-time job.)
 
 **What is exciting to you about research?**
 (How did you get interested in it? What are you hoping to get out it?)
