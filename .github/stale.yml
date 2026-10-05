@@ -39,7 +39,7 @@ markComment: >
 
 # Comment to post when removing the stale label.
 unmarkComment: >
-  Thanks for letting us know you're still interested! Tagging: @rachitnigam or @sampsyo
+  Thanks for letting us know you're still interested! Tagging @sampsyo
 
 # Comment to post when closing a stale Issue or Pull Request.
 # closeComment: >
